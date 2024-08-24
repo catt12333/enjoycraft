@@ -1,0 +1,52 @@
+#strona
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border: solid black 2px;
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    color: aquamarine;
+}
+
+#header
+{
+    width: auto;
+    height: auto;
+    border: solid black 2px;
+    text-align: center;
+    font-size: 250%;
+    background-color: forestgreen;
+}
+
+#navbar
+{
+    width: auto;
+    height: auto;
+    border: solid black 2px;
+    text-align: center;
+    font-size: 250%;
+    color: black;
+    background-color: forestgreen;
+}
+
+#home
+{
+    background-color: forestgreen;
+    border: solid black 2px;
+    padding: 5px;
+    width: auto;
+    height: 500px;
+}
+
+a:link
+{
+    color: aquamarine;
+}
+
+a:visited
+{
+    color: aquamarine;
+}
